@@ -31,3 +31,11 @@ URL do curso -> [JavaScript na Web: Armazenando dados no Navegador](https://curs
 * Aprendemos como alterar valores de tipo `texto`, para valores JavaScript com o método `JSON.parse`.
 * Aplicamos o método `forEach()` para manter os itens criados na página, mesmo após atualizá-la.
 * Aprendemos em quais casos é recomendado utilizar localStorage.
+
+***
+
+## 04 - Atualizando um Item &#x1F516;
+* Utilizar o operador de comparação `===`.
+* Utilizar o método find().
+* Utilizar a condicional *if*, *else*.
+* Atualizar itens, tanto no navegador, quanto no localStorage.
