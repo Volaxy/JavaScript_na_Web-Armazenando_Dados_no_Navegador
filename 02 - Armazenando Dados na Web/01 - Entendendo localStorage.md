@@ -1,0 +1,5 @@
+Até aqui, vimos que localStorage armazena dados do tipo texto `string` e, para armazenar objetos, arrays, e listas, é preciso convertê-los utilizando o método `JSON.stringify()`. Já quando queremos acessar algum dado, podemos utilizar o método `localStorage.getItem()`.
+
+Os tipos de dados armazenados no localStorage não devem ser considerados sensíveis, de acordo com a LGPD (Lei Geral de Proteção de Dados). Isso ocorre, pois ele não possui nenhuma camada de proteção, e os dados podem ser acessados facilmente por terceiros. Dados considerados sensíveis, devem ser armazenados em Cookies.
+
+Você pode acessar os dados salvos no seu navegador na ferramenta *Inspecionar*, clicar em *Aplicativo* e depois em *Armazenamento Local*, na opção do menu lateral. Os dados estão salvos dentro do domínio do site que você acessou. localStorage é uma mão na roda para salvarmos conteúdos de interface, principalmente aqueles que não precisam ser salvos em um banco de dados, e podem ser públicos.
