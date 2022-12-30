@@ -39,3 +39,10 @@ URL do curso -> [JavaScript na Web: Armazenando dados no Navegador](https://curs
 * Utilizar o método find().
 * Utilizar a condicional *if*, *else*.
 * Atualizar itens, tanto no navegador, quanto no localStorage.
+
+***
+
+## 05 - Removendo um Item &#x1F516;
+* Aprendemos a criar um botão com evento de clique utilizando JS.
+* Desenvolvemos uma função para deletar itens de um array, utilizando os métodos splice(), find() e remove().
+* Refatoramos a condicional da const `itemAtual`.
