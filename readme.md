@@ -23,3 +23,11 @@ URL do curso -> [JavaScript na Web: Armazenando dados no Navegador](https://curs
 * Aprendemos na prática como refatorar nosso código melhorando a legibilidade.
 * Alteramos os valores de uma lista em `string` utilizando o método `JSON.stringify`.
 * Salvamos os itens enviados no localStorage em uma lista `array`.
+
+***
+
+## 03 - Interagindo com Dados na Web &#x1F516;
+* Aprendemos como utilizar o operador lógico “ou” `||` para retornar um tipo de dado desejado.
+* Aprendemos como alterar valores de tipo `texto`, para valores JavaScript com o método `JSON.parse`.
+* Aplicamos o método `forEach()` para manter os itens criados na página, mesmo após atualizá-la.
+* Aprendemos em quais casos é recomendado utilizar localStorage.
